@@ -1,0 +1,6 @@
+build/
+PIGG_output/
+.vscode/*.log
+.vscode/settings.json
+bin/
+a.out
